@@ -1,5 +1,7 @@
 ## Hi, I'm Zaky!
-Exploring the world of computer science.\
+**Exploring the world of computer science.**
+
+
 ![](https://github-profile-trophy.vercel.app/?username=Ctrl-Zack&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### Tech Stack
